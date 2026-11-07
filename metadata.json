@@ -1,0 +1,6 @@
+{
+  "name": "Dossier de Arquitectura - Sistema de Gestión Académica (SGA)",
+  "description": "Dossier interactivo de arquitectura de software para el Sistema de Gestión Académica (SGA), diseñado por Gustavo Mercado Portela y Ronald Tomas Gutierrez Acuña.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
